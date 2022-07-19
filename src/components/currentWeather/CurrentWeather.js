@@ -1,7 +1,6 @@
 import "./CurrentWeather.css"
 
 const CurrentWeather = ({ data }) => {
-    console.log("data : ", data)
     if (data) {
         return (
             <div className="weather">
