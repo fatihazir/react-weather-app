@@ -1,3 +1,5 @@
+# An api consumer react project that uses autocomplete for cities in order to get their weather forecast
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
